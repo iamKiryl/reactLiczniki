@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.bcc979a3.chunk.css",
-    "main.js": "/static/js/main.6d471c5a.chunk.js",
-    "main.js.map": "/static/js/main.6d471c5a.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.e703e8cc.chunk.js": "/static/js/2.e703e8cc.chunk.js",
-    "static/js/2.e703e8cc.chunk.js.map": "/static/js/2.e703e8cc.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.9c0047d49675766c705666e193d71758.js": "/precache-manifest.9c0047d49675766c705666e193d71758.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.bcc979a3.chunk.css.map": "/static/css/main.bcc979a3.chunk.css.map"
+    "main.css": "/reactLiczniki/static/css/main.bcc979a3.chunk.css",
+    "main.js": "/reactLiczniki/static/js/main.7f5f1d6b.chunk.js",
+    "main.js.map": "/reactLiczniki/static/js/main.7f5f1d6b.chunk.js.map",
+    "runtime~main.js": "/reactLiczniki/static/js/runtime~main.9cd05390.js",
+    "runtime~main.js.map": "/reactLiczniki/static/js/runtime~main.9cd05390.js.map",
+    "static/js/2.e703e8cc.chunk.js": "/reactLiczniki/static/js/2.e703e8cc.chunk.js",
+    "static/js/2.e703e8cc.chunk.js.map": "/reactLiczniki/static/js/2.e703e8cc.chunk.js.map",
+    "index.html": "/reactLiczniki/index.html",
+    "precache-manifest.ce4d1ce0118adf73f8090b8d350baa1b.js": "/reactLiczniki/precache-manifest.ce4d1ce0118adf73f8090b8d350baa1b.js",
+    "service-worker.js": "/reactLiczniki/service-worker.js",
+    "static/css/main.bcc979a3.chunk.css.map": "/reactLiczniki/static/css/main.bcc979a3.chunk.css.map"
   }
 }
